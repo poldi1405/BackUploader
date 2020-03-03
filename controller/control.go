@@ -11,7 +11,7 @@ import (
 	"sync"
 	"syscall"
 
-	"../display"
+	"github.com/poldi1405/BackUploader/display"
 	"golang.org/x/sync/semaphore"
 )
 

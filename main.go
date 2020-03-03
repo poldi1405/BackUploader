@@ -6,9 +6,9 @@ import (
 	"os"
 	"sync"
 
-	"./controller"
-	"./display"
 	"github.com/bigkevmcd/go-configparser"
+	"github.com/poldi1405/BackUploader/controller"
+	"github.com/poldi1405/BackUploader/display"
 	"github.com/wsxiaoys/terminal/color"
 	"golang.org/x/sync/semaphore"
 )

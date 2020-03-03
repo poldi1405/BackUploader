@@ -1,0 +1,10 @@
+language: go
+
+os:
+  - osx
+  - linux
+#  - windows  NOT YET WORKING IN Travis CI Pipeline
+
+go:
+  - 1.13.x
+  - 1.14.x
